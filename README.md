@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Anita, ands I am a trained and certified pharmacist. I am currently pursuing a Masters in Health data Science at the University of Manchester. Iam interested in all things python, R and Data Science!!
+My name is Anita, and I am a trained and certified pharmacist. I am currently pursuing a Masters in Health data Science at the University of Manchester. Iam interested in all things python, R and Data Science!!
 
 - 🔭 I’m currently working on my coursework focusing on mastering topics like, bioinformatics, Design and analysis of Randomized Controlled trials, multi-omics for healthcare, machine learning and statistical programming. On the side , I'm exploring Machine Learning and AI through personal projects, aiming to apply innovative solutions to real-world health data challenges. 
 - 🌱 I’m currently learning to build interactive dashboards using tools like Power BI and tableau, with the goal of enhancing my data storytelling and visualiztion skills to convey insights more effeciently. 
