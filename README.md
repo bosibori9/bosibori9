@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+My name is Anita, ands I am a trained and certified pharmacist. I am currently persuing a Masters in Health data Science at University of Mancester. Iam intrested in all things python, R and Data Science!!
+
+- 🔭 I’m currently working on my coursework focusing on mastering topics like, bioinformatics, Design and analysis of Randomized Controlled trials, multi-omics for healthcare, machine learning and statistical programming. On the side , I'm exploring Machine Learning and AI through personal projects, aiming to apply innovative solutions to real-world health data challenges. 
+- 🌱 I’m currently learning to build interactive dashboards using tools like Power BI and tableau, with the goal of enhancing my data storytelling and visualiztion skills to convey insights more effeciently. 
+- 📫 How to reach me: via email @ anitabosi15@gmail.com 
 - ⚡ Fun fact: ...
 
 <!--
